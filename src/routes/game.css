@@ -1,0 +1,32 @@
+.gomoku-board {
+    display: grid;
+
+    width: 50px;
+    margin: 50px auto;
+    align-self: auto;
+    justify-content: center
+}
+
+.cell {
+    font-family: "Helvetica", sans-serif;
+    width: 30px;
+    height: 30px;
+    box-shadow: 0 0 0 1px #292929;
+    border: 1px solid #292929;
+    cursor: pointer;
+    text-align: center;
+    line-height: 50px;
+    font-size: 11px;
+    border-radius: 50%;
+    background-color: None;
+
+}
+
+.game_screen {
+    background-color: #7f7f80;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+    height: 100vh;
+}

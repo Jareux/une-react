@@ -1,0 +1,30 @@
+.header {
+    background-color: #3d4046;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+    
+
+}
+
+.gomoku_title {
+    background-color: #3d4046;
+    color: white;    
+    font-family: Arial;
+    text-align: left;
+    
+    size: 32p;
+    float: left;
+}
+
+.login_links {
+    background-color: #3d4046;
+    color: white;
+    padding-right: 40;
+    padding-left: 40;
+    font-family: Arial;
+    text-align: right;
+    size: 32p;
+    float: right;
+}
