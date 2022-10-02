@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "npm i --save-dev @types/node",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -38,6 +38,6 @@
   },
   "proxy": "http://localhost:8080",
   "devDependencies": {
-    "@types/node": "^18.7.20"
+    "@types/node": "^18.7.23"
   }
 }
